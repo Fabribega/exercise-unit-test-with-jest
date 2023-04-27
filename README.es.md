@@ -10,7 +10,7 @@ Hoy usaremos el [jest framework](https://jestjs.io/) para crear nuestras primera
 
 ## 🌱 Cómo comenzar este proyecto
 
-Este proyecto viene con los archivos necesarios para comenzar a trabajar de inmediato.
+Este proyecto viene con los archivos necesarios para comenzar a trabajar de inmediato..
 
 Recomendamos abrir este mismo repositorio usando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
